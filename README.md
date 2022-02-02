@@ -35,7 +35,7 @@
 <img align="left" alt="Socket.io" width="25px" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png" />
 <img align="left" alt="Heroku" width="25px" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" />
 <img align="left" alt="npm" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Postman" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabT9Y5LDRTOBQxv3vhD5rc-7fXiiJ6FuhrftYp0W3-cPeiTIaee8wDDlc_djemE4H_6U&usqp=CAU" />
+<!-- <img align="left" alt="Postman" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabT9Y5LDRTOBQxv3vhD5rc-7fXiiJ6FuhrftYp0W3-cPeiTIaee8wDDlc_djemE4H_6U&usqp=CAU" /> -->
 <!-- <img align="left" alt="" width="25px" src="" /> -->
 
 
