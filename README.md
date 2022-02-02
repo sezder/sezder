@@ -20,6 +20,7 @@
 <img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Docker" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -27,16 +28,30 @@
 <img align="left" alt="CSS" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="25px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
 <img align="left" alt="Express" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Visual Studio Code" width="25px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+<img align="left" alt="Socket.io" width="25px" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png" />
+<img align="left" alt="Heroku" width="25px" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" />
+<img align="left" alt="npm" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Postman" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabT9Y5LDRTOBQxv3vhD5rc-7fXiiJ6FuhrftYp0W3-cPeiTIaee8wDDlc_djemE4H_6U&usqp=CAU" />
+<!-- <img align="left" alt="" width="25px" src="" /> -->
+
+
+
+<br>
+<br>
+
+## Github Stats
+
+
 
 <br>
 <br>
 
 ## My Recent Projects
-[Euphony](https://euphony-web.herokuapp.com/) 
+### Euphony [Live](https://euphony-web.herokuapp.com/) | [Github](https://github.com/tforde4623/Euphony)
 Euphony was a group project, which was our take on Discord, where users can join servers and chat live with others. Built using: 
 <p> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -52,7 +67,7 @@ Euphony was a group project, which was our take on Discord, where users can join
     <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
 </p>
 
-### [Headquarters](https://h-q.herokuapp.com/) 
+### Headquarters (HQ) [Live](https://h-q.herokuapp.com/) | [Github](https://github.com/sezder/HQ)
 Headquarters is a minimalist, single-page project management app inspired by Basecap which allows teams to organize their workload into projects with both tasks and discussions about a project all in one place. Built using: 
 <p> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -67,7 +82,7 @@ Headquarters is a minimalist, single-page project management app inspired by Bas
     <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
 </p>
 
-### [Mix It Up](https://sezder-mix-it-up.herokuapp.com/) 
+### Mix It Up [Live](https://sezder-mix-it-up.herokuapp.com/) | [Github](https://github.com/sezder/MixItUp)
 Mix It Up allows users to discover and review cocktails and bars, sharing their experiences out on the town. Built using: 
 <p>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -81,7 +96,7 @@ Mix It Up allows users to discover and review cocktails and bars, sharing their 
     <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
 </p>
 
-### [Cheese & Checkers](https://cheeseandcheckers.herokuapp.com/) 
+### Cheese & Checkers [Live](https://cheeseandcheckers.herokuapp.com/) | [Github](https://github.com/brittmol/CheeseAndCheckers)
 Cheese & Checkers, a group project, is a board game review and discovery site, allowing users to save games they’re interested in playing to their game shelves. Built using: 
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -91,8 +106,5 @@ Cheese & Checkers, a group project, is a board game review and discovery site, a
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
     <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
 </p>
