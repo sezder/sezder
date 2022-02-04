@@ -12,7 +12,10 @@
 ## Get in Touch 
 <img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 <img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" />
-<a href="https://shannon-zander.herokuapp.com/"><img align="left" alt="Personal Website" width="35px" src="https://i.imgur.com/f3uFvA5.png" /></a>
+
+<a href="https://shannon-zander.herokuapp.com/"><img align="left" alt="Personal Website" width="35px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
+
+
 <br>
 <br>
 
@@ -44,8 +47,8 @@
 <br>
 
 ## Github Stats
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sezder&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezder&count_private=true&layout=compact&theme=tokyonight)
 
 <br>
 <br>
