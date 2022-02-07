@@ -1,5 +1,6 @@
-# Hello World! Shannon here.
+![PersonalLogoBanner](https://user-images.githubusercontent.com/84882854/152850870-6b1a2759-0229-490e-9d22-80eb0fbd7f6a.png)
 
+## Get to know me a bit...
 - 💼 Check out [my portfolio](https://shannon-zander.herokuapp.com/)!
 - ⏩ Achieved my MVP two days into a two-week sprint with my most recent project.
 - 📕 Currently reading [The Algorithm Design](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=pd_lpo_1?pd_rd_i=3030542556&psc=1) Manual by Steven S. Skiena
@@ -49,9 +50,6 @@
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sezder&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezder&count_private=true&layout=compact&theme=tokyonight)
-
-<br>
-<br>
 
 ## My Recent Projects
 ### Euphony [Live](https://euphony-web.herokuapp.com/) | [Github](https://github.com/tforde4623/Euphony)
