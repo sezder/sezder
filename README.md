@@ -1,4 +1,4 @@
-![PersonalLogoBanner](https://user-images.githubusercontent.com/84882854/152850870-6b1a2759-0229-490e-9d22-80eb0fbd7f6a.png)
+![Personal logo banner](https://user-images.githubusercontent.com/84882854/153647472-e0d7d44d-6985-425f-9411-bfef6724fed6.png)
 
 ## Get to know me a bit...
 - 💼 Check out [my portfolio](https://shannon-zander.herokuapp.com/)!
