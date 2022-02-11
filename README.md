@@ -51,6 +51,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sezder&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezder&count_private=true&layout=compact&theme=tokyonight)
 
+<br>
+
 ## My Recent Projects
 ### Euphony [Live](https://euphony-web.herokuapp.com/) | [Github](https://github.com/tforde4623/Euphony)
 Euphony was a group project, which was our take on Discord, where users can join servers and chat live with others. Built using: 
