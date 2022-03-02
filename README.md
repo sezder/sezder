@@ -1,20 +1,19 @@
-![Personal logo banner](https://user-images.githubusercontent.com/84882854/153647472-e0d7d44d-6985-425f-9411-bfef6724fed6.png)
+<img src="https://i.imgur.com/P3syPcs.jpg" alt="Shannon Zander banner"></img>
 
 ## Get to know me a bit...
-- 💼 Check out [my portfolio](https://shannon-zander.herokuapp.com/)!
+- 💼 Check out [my portfolio](https://sezder.github.io/)!
 - ⏩ Achieved my MVP two days into a two-week sprint with my most recent project.
 - 📕 Currently reading [The Algorithm Design](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=pd_lpo_1?pd_rd_i=3030542556&psc=1) Manual by Steven S. Skiena
 - 🌿 Presently fine-tuning my Docker skills.
-- 👩🏼‍🎓 Graduated from Whitman College, majoring in Philosophy and Classics; attained Honors in Major study in both of my majors, an accomplishment only shared by only five individuals in my graduating class.
+- 🎓 Graduated from Whitman College, majoring in Philosophy and Classics; attained Honors in Major study in both of my majors, an accomplishment only shared by only five individuals in my graduating class.
 -  🇿🇦 Served in the Peace Corps in South Africa as an English Educator & Teacher Trainer.
-- ⚡ Passionate about learning languages of all kinds (currently know Ancient Greek, Latin, Sepedi/Northen Sotho, and English).
-- ❔Ask me about why I think Classics majors make phenomenal programmers. 
+- ⚡ Passionate about learning languages of all kinds (currently know Ancient Greek, Latin, Sepedi/Northern Sotho, and English).
+- ❔ Ask me about why I think Classics majors make phenomenal, if untraditional, programmers. 
 
 ## Get in Touch 
 <img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 <img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" />
-
-<a href="https://shannon-zander.herokuapp.com/"><img align="left" alt="Personal Website" width="30px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
+<a href="https://sezder.github.io/"><img align="left" alt="Personal Website" width="30px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
 
 
 <br>
@@ -48,66 +47,7 @@
 <br>
 
 ## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sezder&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezder&count_private=true&layout=compact&theme=tokyonight)
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=sezder&count_private=true&theme=tokyonight" alt="github stats"></img>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezder&count_private=true&layout=compact&theme=tokyonight" alt="top languages"></img>
 
 <br>
-
-## My Recent Projects
-### Euphony [Live](https://euphony-web.herokuapp.com/) | [Github](https://github.com/tforde4623/Euphony)
-Euphony was a group project, which was our take on Discord, where users can join servers and chat live with others. Built using: 
-<p> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
-</p>
-
-### Headquarters (HQ) [Live](https://h-q.herokuapp.com/) | [Github](https://github.com/sezder/HQ)
-Headquarters is a minimalist, single-page project management app inspired by Basecap which allows teams to organize their workload into projects with both tasks and discussions about a project all in one place. Built using: 
-<p> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
-</p>
-
-### Mix It Up [Live](https://sezder-mix-it-up.herokuapp.com/) | [Github](https://github.com/sezder/MixItUp)
-Mix It Up allows users to discover and review cocktails and bars, sharing their experiences out on the town. Built using: 
-<p>
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-    <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
-</p>
-
-### Cheese & Checkers [Live](https://cheeseandcheckers.herokuapp.com/) | [Github](https://github.com/brittmol/CheeseAndCheckers)
-Cheese & Checkers, a group project, is a board game review and discovery site, allowing users to save games they’re interested in playing to their game shelves. Built using: 
-<p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-    <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" />
-    <img alt="Heroku" src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" />
-</p>
