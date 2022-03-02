@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/P3syPcs.jpg" alt="Shannon Zander banner"></img>
+<img src="https://i.imgur.com/P3syPcs.jpg" alt="Shannon Zander banner" />
 
 ## Get to know me a bit...
 - 💼 Check out [my portfolio](https://sezder.github.io/)!
@@ -11,8 +11,8 @@
 - ❔ Ask me about why I think Classics majors make phenomenal, if untraditional, programmers. 
 
 ## Get in Touch 
-<img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-<img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" />
+<a href="https://www.linkedin.com/in/shannon-e-zander/"><img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
+<a href="https://angel.co/u/shannon-zander"><img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" /></a>
 <a href="https://sezder.github.io/"><img align="left" alt="Personal Website" width="30px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
 
 
