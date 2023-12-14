@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/P3syPcs.jpg" alt="Shannon Zander banner" />
-
 ## Get to know me a bit...
 - 💼 Check out [my portfolio](https://sezder.github.io/)!
 - ⏩ Achieved my MVP two days into a two-week sprint with my most recent project.
