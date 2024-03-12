@@ -1,6 +1,5 @@
 ## Get to know me a bit...
 - 💼 Check out [my portfolio](https://sezder.github.io/)!
-- ⏩ Achieved my MVP two days into a two-week sprint with my most recent project.
 - 📕 Currently reading [The Algorithm Design](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=pd_lpo_1?pd_rd_i=3030542556&psc=1) Manual by Steven S. Skiena
 - 🌿 Presently fine-tuning my Docker skills.
 - 🎓 Graduated from Whitman College, majoring in Philosophy and Classics; attained Honors in Major study in both of my majors, an accomplishment only shared by only five individuals in my graduating class.
@@ -22,6 +21,12 @@
 <p>Languages</p>
 <div>
 <img
+  alt="TypeScript"
+  width="40px"
+  title="TypeScript"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+/>
+<img
   alt="Python"
   width="40px"
   title="Python"
@@ -32,12 +37,6 @@
   width="40px"
   title="JavaScript"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-/>
-<img
-  alt="TypeScript"
-  width="40px"
-  title="TypeScript"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
 />
 </div>
 <p>Frameworks & Libraries</p>
