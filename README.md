@@ -21,7 +21,7 @@ Currently, I work on **subscriptions and payments infrastructure**, where I own 
 - **Languages:** TypeScript, SQL  
 - **Systems:** GCP, Cloud SQL, BigQuery, Terraform  
 - **Data & APIs:** GraphQL (Relay), relational databases  
-- **Domains:** Billing, payments, large-scale data migrations  
+- **Domains:** Billing, payments, high-volume production data migrations
 
 <sub>Intentionally curated — not exhaustive</sub>
 
